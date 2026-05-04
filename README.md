@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="mailto:abelsaldanap@gmail.com"><img src="https://img.shields.io/badge/Gmail-abelsaldanap%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/baelx"><img src="https://img.shields.io/badge/LinkedIn-baelx-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/asaldanadev"><img src="https://img.shields.io/badge/LinkedIn-baelx-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://abel-dev-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://gitlab.com/baelx999"><img src="https://img.shields.io/badge/GitLab-baelx999-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
+  <a href="https://gitlab.com/asaldanadev"><img src="https://img.shields.io/badge/GitLab-baelx999-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
 </p>
 
 ---

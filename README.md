@@ -229,5 +229,6 @@ Sitio personal con diseño moderno, sistemas de alto rendimiento y arquitectura 
 ---
 
 <p align="center">
-  <i>"El código que no está en producción no tiene valor. El código en producción que nadie puede mantener tampoco."</i>
+  <i>"Cualquiera puede hacer que funcione. La diferencia está en hacerlo sostenible."</i><br/>
+  <sub>— Abel Saldaña</sub>
 </p>

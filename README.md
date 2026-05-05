@@ -189,14 +189,14 @@ Sitio personal con diseño moderno, sistemas de alto rendimiento y arquitectura 
 
 ## 📊 Estadísticas GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asaldanadev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950&locale=es" />
+<!-- <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asaldanadev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950&locale=es&cache_seconds=86400" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaldanadev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=es" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaldanadev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&locale=es&cache_seconds=86400" />
+</p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asaldanadev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=c9d1d9&locale=es" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asaldanadev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=c9d1d9&locale=es" />
 </p>
 
 ---

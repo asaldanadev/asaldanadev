@@ -13,6 +13,30 @@
 
 ---
 
+## 🏆 Logros Recientes
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/f496dc36-c055-4635-ac45-7027582e1600">
+    <img src="assets/contributor.png" width="150" alt="GSSoC 2026 Contributor" title="Ver mi perfil oficial de GSSoC"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gssoc.girlscript.org/profile/f496dc36-c055-4635-ac45-7027582e1600">
+    <img src="assets/open.png" width="150" alt="GSSoC 2026 Open Source Track" title="Ver mi perfil oficial de GSSoC"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gssoc.girlscript.org/profile/f496dc36-c055-4635-ac45-7027582e1600">
+    <img src="assets/ai.png" width="150" alt="GSSoC 2026 AI Track" title="Ver mi perfil oficial de GSSoC"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://gssoc.girlscript.org/profile/f496dc36-c055-4635-ac45-7027582e1600">GirlScript Summer of Code 2026 — Contributor Seleccionado</a></strong><br>
+  Participando activamente en las pistas de <b>Open Source</b> e <b>IA Agents</b>.<br>
+  <i>Mayo 2026 – Presente</i>
+</p>
+
+---
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 Soy **Full Stack Engineer y Analista Programador** con experiencia real en entornos de producción, especializado en el desarrollo de aplicaciones web empresariales. Me enfoco en construir sistemas escalables, APIs robustas y código limpio con impacto directo en el negocio.

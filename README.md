@@ -37,7 +37,7 @@
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+## <picture><img src="about_me.gif" width="50"></picture> Sobre mí
 
 Soy **Full Stack Engineer y Analista Programador** con experiencia real en entornos de producción, especializado en el desarrollo de aplicaciones web empresariales. Me enfoco en construir sistemas escalables, APIs robustas y código limpio con impacto directo en el negocio.
 
